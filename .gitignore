@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+seo_history.db
+__pycache__/
+*.pyc
+check_models.py
+.venv/
